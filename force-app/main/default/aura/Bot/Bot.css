@@ -57,3 +57,8 @@
 .THIS .slds-file-selector__dropzone {
     width: 100% !important;
 }
+
+.THIS .footer .slds-form-element__control input { 
+    color: #000;
+    font-size: 18px;
+}
