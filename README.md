@@ -2,7 +2,7 @@
 
 > ** PLEASE NOTE **
 >
-> This version of the DreamHouse sample application is now deprecated. It will be removed at a future date. Please use the [official DreamHouse repo](https://github.com/forcedotcom/sfdx-dreamhouse) instead.
+> This version of the DreamHouse sample application is now deprecated. It will be removed at a future date. Please use the [official DreamHouse repo](https://github.com/dreamhouseapp/dreamhouse-sfdx) instead.
 
 DreamHouse is a sample application that demonstrates the unique value proposition of the Salesforce App Cloud for building Employee Productivity and Customer Engagement apps.
 
