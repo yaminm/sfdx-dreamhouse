@@ -2,7 +2,7 @@ public with sharing class BotController {
 
     class HandlerMapping {
         
-        public String handlerClassName;//test
+        public String handlerClassName;
         public Pattern utterancePattern;
 
         public HandlerMapping(String handlerClassName, String patternStr) {
